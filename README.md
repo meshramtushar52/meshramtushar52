@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms Using C++**
+- 🌱 I’m currently learning **Front-end Web Development**
 
 - 📫 How to reach me **meshramtushar52@gmail.com**
 
