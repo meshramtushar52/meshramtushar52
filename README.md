@@ -25,5 +25,9 @@
   <tr>
     <td> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meshramtushar52&show_icons=true&locale=en&layout=compact" alt="meshramtushar52" /></p></td>
     <td> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meshramtushar52&show_icons=true&locale=en" alt="meshramtushar52" /></p></td>
-    <td> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meshramtushar52&" alt="meshramtushar52" /></p></td>
   </tr>
+<tr>
+  <td> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meshramtushar52" alt="meshramtushar52" /></a> </p></td>
+   <td> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meshramtushar52&" alt="meshramtushar52" /></p></td>
+  </tr>
+  
