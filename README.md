@@ -30,5 +30,5 @@
      <td> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meshramtushar52&" alt="meshramtushar52" /></p></td>
   <td> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meshramtushar52" alt="meshramtushar52" /></a> </p></td>
 
-  </tr>
+   </tr>
   
